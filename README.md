@@ -13,7 +13,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/rocketseat/react-native-template-rocketseat-basic.svg)](https://github.com/Rocketseat/react-native-template-rocketseat-basic/commits/master)
 [![NPM](https://img.shields.io/npm/l/react-native-template-rocketseat-basic.svg)](https://choosealicense.com/licenses/mit)
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO --> 
 <br />
 <p align="center">
   <a href="https://rocketseat.com.br">
